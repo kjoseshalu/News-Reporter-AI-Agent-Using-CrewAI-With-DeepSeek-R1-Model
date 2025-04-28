@@ -116,7 +116,7 @@ python run crew.py
 
 ## 📷 Screenshot
 
-![App Screenshot](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-28%20091721.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-27T10%3A03%3A33.566Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Ff2d7ea10e9024fa2%2FScreenshot%25202025-04-28%2520091721.png%3FExpires%3D1840442614%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DDFoIzndrbPI~vytwUOQExSXQdcKDGjKbig0As9gZNlr6Ksn7Akvstt1r1KlFY8Ny3m~5p8bk~0hMyMMcdfCApySZ18I0~frDdOi4lHRyArFGgE-jn4DDIyu4YBVdYaJ-WdxyNz5nId8cx~GOrRdTk9B0DsLhl5tk~p9HRErd9Je489Lr8CD6NZptAPF4o7Ogac6oQjuzYkuXzVGkqFkjIldV82m2MduJxAcCf26Un86q0840ucw3FlJsveE73109P18U3Z9TPO6BWZtszk3aTMjTXA9ylLsWblb8FkpStSxw85du4zb9Tj0c2xM~RcTd67uQ70zLX5Fs12sU5Pwc-w__%22%7D)
+![App Screenshot](https://github.com/kjoseshalu/News-Reporter-AI-Agent-Using-CrewAI-With-DeepSeek-R1-Model/blob/main/Screenshot.png)
 
 
 
